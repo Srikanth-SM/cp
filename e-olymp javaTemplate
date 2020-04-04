@@ -1,0 +1,11 @@
+import java.util.Scanner;
+
+/*
+* e-olymp contest Graph Representation
+* */
+public class TaskD {
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        int n = in.nextInt()
+    }
+}
